@@ -20,7 +20,6 @@ import { IoLogoJavascript } from "react-icons/io";
 import arun from '../../assets/img/arun.jpg';
 import arun2 from '../../assets/img/arun2.jpg';
 import arun3 from '../../assets/img/arun3.png';
-import img3 from '../../assets/img/3.png';
 import arun1 from '../../assets/img/arun1.jpg'
 export const Projects = () => {
   return (
