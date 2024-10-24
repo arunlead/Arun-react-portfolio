@@ -27,7 +27,7 @@ export const Introduction = () => {
                   {" "}
                   vellore, tamilnadu (India)
                 </span>
-                . Currently persuing my B.E 3rd year 
+                . Currently persuing my B.E Final year 
                 from{" "}
                 <span className="different">
                   AALIM MUHAMMED SALEGH COLLEGE OF ENGINEERING(AMSCE)
